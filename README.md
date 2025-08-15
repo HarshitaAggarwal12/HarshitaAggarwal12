@@ -1,8 +1,10 @@
 ### Hi, I'm Harshita! 👋
 
-🌱 Learning something new every day.<br/>
-📈 Data Analyst → Data Scientist. <br/>
-🔭 Loves working on Python, SQL, PowerBI.<br/>
+### About me!
+
+📈 I'm Currently working on Data Analyst Projects. <br/>
+🌱 I'm currently Learning Machine Learning and Dee Learning.<br/>
+🔭 Ask me about Python, SQL, PowerBI.<br/>
 💬 Exploring the world of data, one dataset at a time.<br/>
 
 [![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitaAggarwal12)](https://github.com/HarshitaAggarwal12/github-readme-stats)
